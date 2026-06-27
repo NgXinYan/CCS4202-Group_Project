@@ -291,6 +291,20 @@ java Routing_Dijkstras_Algorithm
 
 ---
 
+## 🌐 Project Website
+
+Visit our official project website for the complete documentation, algorithm explanation, flowcharts, implementation details, and group member information:
+
+https://sites.google.com/student.upm.edu.my/ccs4202groupproject-bird
+
+---
+
+## 👥 Group Members
+
+Please refer to the **Group Members** section on the project website for the complete list of team members and their respective roles.
+
+---
+
 # 📚 References
 
 1. Dijkstra, E. W. (1959). *A Note on Two Problems in Connexion with Graphs*. Numerische Mathematik, 1, 269–271.
