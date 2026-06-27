@@ -300,8 +300,7 @@ https://sites.google.com/student.upm.edu.my/ccs4202groupproject-bird
 ---
 
 ## 👥 Group Members
-
-Please refer to the **Group Members** section on the project website for the complete list of team members and their respective roles.
+Ng Xin Yan (231302), Phang Xin Hui (229637), Shee Shu Ting (228742)
 
 ---
 
@@ -325,7 +324,7 @@ Please refer to the **Group Members** section on the project website for the com
 
 # 👨‍💻 Course Information
 
-**Course:** Design and Analysis of Algorithms
+**Course:** CCS4202-Design and Analysis of Algorithms
 
 **Project Title:** Emergency Rescue Route Optimization Using Dijkstra's Algorithm
 
