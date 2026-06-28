@@ -295,7 +295,7 @@ java Routing_Dijkstras_Algorithm
 
 Visit our official project website for the complete documentation, algorithm explanation, flowcharts, implementation details, and group member information:
 
-https://sites.google.com/student.upm.edu.my/ccs4202groupproject-bird
+    https://sites.google.com/student.upm.edu.my/ccs4202groupproject-bird/home
 
 ---
 
