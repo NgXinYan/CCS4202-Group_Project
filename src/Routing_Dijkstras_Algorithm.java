@@ -152,7 +152,7 @@ public class Routing_Dijkstras_Algorithm {
         //run analysis for normal conditions
         rescueSystem.findOptionalRoute("Civil Defence HQ", "Hospital Zone");
 
-        System.out.println("\n\n---Environment Scenario B: Dynamic Disaster update (Labdslide Event!)");
+        System.out.println("\n\n---Environment Scenario B: Dynamic Disaster update (Landslide Event!)");
         //clear old map parameters and apply the updated crisis landscape
         rescueSystem.graph.clear();
 
