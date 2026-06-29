@@ -306,19 +306,21 @@ Ng Xin Yan (231302), Phang Xin Hui (229637), Shee Shu Ting (228742)
 
 # 📚 References
 
-1. Dijkstra, E. W. (1959). *A Note on Two Problems in Connexion with Graphs*. Numerische Mathematik, 1, 269–271.
+1. Astana, I N. Y., Sudarsana, I D. K., & Puspa, N. M. W. (2023). Designing evacuation route using DIJKSTRA methods. *International Journal of Progressive Sciences and Technologies (IJPSAT), 37*(2), 303-314. 
 
-2. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). *Introduction to Algorithms* (4th ed.). MIT Press.
+2. Christopher Wilt, & Wheeler Ruml. (2016). Effective heuristics for suboptimal best-first search. *Journal of Artificial Intelligence Research, 57*, 273–306. https://doi.org/10.1613/jair.5036 
 
-3. Oyola, A., Romero, D., & Vintimilla, B. X. (2017). *A Dijkstra-Based Algorithm for Selecting the Shortest-Safe Evacuation Routes in Dynamic Environments (SSER).* Springer.
+3. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to algorithms (4th ed.). *MIT Press*. https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
 
-4. Milin, V. (2025). *Dijkstra and A* Algorithms for Algorithmic Optimization of Route Planning.* Algorithms.
+4. Dijkstra, E. W. (1959). A note on two problems in connexion with graphs. *Numerische Mathematik, 1*, 269–271. https://doi.org/10.1007/BF01386390
 
-5. Wilt, C., & Ruml, W. (2016). *Effective Heuristics for Suboptimal Best-First Search.* Journal of Artificial Intelligence Research.
+5. Milin, V. (2025). Dijkstra and A* algorithms for algorithmic optimization of route planning. *Algorithms, 13*(10), Article 1863. https://doi.org/10.3390/algorithms13101863
 
-6. United States Geological Survey. (2015). *M 6.0 - 12 km WNW of Ranau, Malaysia.*
+6. United States Geological Survey. (2015). M 6.0 - 12 km WNW of Ranau, Malaysia. USGS Earthquake Hazards Program. https://earthquake.usgs.gov/earthquakes/eventpage/us20002m5s/executive
 
-7. Vulcan Post. (2015). *The Local Sabahan Earthquake Aftermath You're Probably Unaware Of.*
+7. Vulcan Post. (2015). The local Sabahan earthquake aftermath you’re probably unaware of. https://vulcanpost.com/289811/local-sabahan-earthquake-aftermath-youre-probably-unaware/
+
+8. Wilt, C., & Ruml, W. (2016). Effective heuristics for suboptimal best-first search. *Journal of Artificial Intelligence Research, 57*, 273–306. https://doi.org/10.1613/jair.5036
 
 ---
 
